@@ -46,7 +46,7 @@ const Footer = () => {
                 color: 'rgba(255, 255, 255, 0.8)'
               }}
             >
-               Ashoka Destination in Kapilswar, Bhubaneshwar is a top player in the category Car Rental in the Bhubaneshwar. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Bhubaneshwar.
+               Jay jagannath in Kapilswar, Bhubaneshwar is a top player in the category Car Rental in the Bhubaneshwar. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Bhubaneshwar.
             </Typography>
             <Box sx={{ mt: 2 }}>
               <Link 
