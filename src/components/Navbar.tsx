@@ -74,7 +74,7 @@ const Navbar = () => {
             fontSize: { xs: '1.25rem', sm: '1.5rem' },
           }}
         >
-          Ashoka Destination
+         Jay Jagannath
         </Typography>
 
         {isMobile ? (
