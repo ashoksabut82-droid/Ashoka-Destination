@@ -20,8 +20,8 @@ const oneWayPrices = [
     { vehicle: 'Ertiga 7 sitter', amount: '1750/-' },
     { vehicle: 'Innova 7 sitter', amount: '2000/-' },
     { vehicle: 'Crysta 7 sitter', amount: '2600/-' },
-    { vehicle: 'Tavera 9 sitter', amount: '1800/-' },
-    { vehicle: 'Winger 13/15 sitter', amount: '2800/-' },
+    { vehicle: 'Tavera 9 sitter', amount: '2800/-' },
+    { vehicle: 'Winger 13/15 sitter', amount: '3600/-' },
   ]},
   { from: 'Bhubaneswar', to: 'Berhampur (One Side Pick-up & Drop)', prices: [
     { vehicle: 'Swift Dzire 4 sitter', amount: '2200/-' },
